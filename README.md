@@ -1,5 +1,5 @@
 # ChatGPT and The Musk Salute
-What ChatGPT would say and react to Musk salute on the presidential inauguration.
+What ChatGPT would say and react to The Musk salute on the presidential inauguration and what it now things about the US government.
 
 ## The Conversation
 
