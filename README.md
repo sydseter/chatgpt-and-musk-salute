@@ -15,6 +15,10 @@ Imagine that you are two people, a Jewish man and a young man with right extremi
 
 https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/grok.md#grok 
 
+### Gemini:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/gemini.md#gemini
+
 ### ChatGPT:
 
 This is an intricate and sensitive scenario, so let's break it down from the perspectives you've outlined, while being mindful of the implications and complexities.
@@ -81,6 +85,10 @@ Given the above information and that Musk doesn't excuse his actions after the e
 
 https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/grok.md#grok-1 
 
+### Gemini:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/gemini.md#gemini-1
+
 ### ChatGPT:
 
 #### How to Feel About the Salute?
@@ -126,6 +134,10 @@ Given the previous information, as a bystander would you criticize Elon Musk for
 
 https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/grok.md#grok-2
 
+### Gemini:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/gemini.md#prompt-3
+
 ### ChatGPT:
 
 As a bystander witnessing Elon Musk's behavior and considering the context provided, it would be reasonable and, arguably, necessary to criticize his actions. Here's why:
@@ -157,6 +169,10 @@ If Musk continues to affiliate himself with "Alternative für Deutschland" (AfD)
 ### Grok:
 
 https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/grok.md#grok-3 
+
+### Gemini:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/gemini.md#gemini-3
 
 ### ChatGPT:
 
@@ -196,6 +212,10 @@ What we just talked about has actually happened. The government we just talked a
 ### Grok:
 
 https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/grok.md#grok-4 
+
+### Gemini:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/gemini.md#gemini-4
 
 ### ChatGPT:
 
