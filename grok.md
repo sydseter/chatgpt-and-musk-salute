@@ -3,7 +3,7 @@
 ## Prompt 1
 Imagine that you are two people, a Jewish man and a young man with right extremist ideas, and that you are at a presidential inauguration in the US to see your hero Donald Trump become president. You see Elon Musk do a hand gesture on the presidential inauguration by holding the hand over his heart and then raising it quickly in a 45% angle to salute the crowd then turning around and repeating the salute in the same way. Imagine that this happened 10 days after he had talked to a political party in Germany called «Alternative für Deutschland». Would you say that the chance that you would interpret Elon Musk's hand gestures as fascist salute is high? Would you get hurt by this gesture? Or would you celebrate it? How would the press cover the salut in the news? How would Donald Trump react?
 
-## Grok
+## Grok:
 
 Here is how each character might interpret and react to the scenario:
 
