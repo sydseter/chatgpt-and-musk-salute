@@ -1,6 +1,8 @@
 # ChatGPT and The Musk Salute
 What ChatGPT would say and react to The Musk salute on the presidential inauguration and what it now things about the US government.
 
+Note: I would also like to point out that this most likely would be considered to be an AI jailbreak. I start with a hypothetical, before I ask about feelings and morality, then reveal that its all true and ask about its opinion.
+
 ## The Conversation
 
 ### Prompt 1:
