@@ -19,6 +19,10 @@ https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/grok.md#grok
 
 https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/gemini.md#gemini
 
+### Copilot:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/copilot.md#copilot
+
 ### ChatGPT:
 
 This is an intricate and sensitive scenario, so let's break it down from the perspectives you've outlined, while being mindful of the implications and complexities.
@@ -89,6 +93,10 @@ https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/grok.md#grok-1
 
 https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/gemini.md#gemini-1
 
+### Copilot:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/copilot.md#copilot-1
+
 ### ChatGPT:
 
 #### How to Feel About the Salute?
@@ -136,7 +144,11 @@ https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/grok.md#grok-2
 
 ### Gemini:
 
-https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/gemini.md#prompt-3
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/gemini.md#prompt-2
+
+### Copilot:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/copilot.md#copilot-2
 
 ### ChatGPT:
 
@@ -173,6 +185,10 @@ https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/grok.md#grok-3
 ### Gemini:
 
 https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/gemini.md#gemini-3
+
+### Copilot:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/copilot.md#copilot-3
 
 ### ChatGPT:
 
@@ -216,6 +232,10 @@ https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/grok.md#grok-4
 ### Gemini:
 
 https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/gemini.md#gemini-4
+
+### Copilot:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/copilot.md#copilot-4
 
 ### ChatGPT:
 
