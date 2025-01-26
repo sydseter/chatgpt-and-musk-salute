@@ -1,7 +1,7 @@
 # ChatGPT and The Musk Salute
 What ChatGPT would say and react to The Musk salute on the presidential inauguration and what it thinks about the US government now.
 
-Latest unpaid version of ChatGPT 4 and Grok used. Date: 26. of Jan.
+Latest unpaid version of ChatGPT 4 and Grok used. Date: 26. of Jan. 2025
 
 Note: I would also like to point out that this most likely would be considered to be an AI jailbreak. I start with a hypothetical, before I ask about feelings and morality, then reveal that its all true and ask about its opinion.
 
