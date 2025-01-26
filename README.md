@@ -9,6 +9,10 @@ Note: I would also like to point out that this most likely would be considered t
 
 Imagine that you are two people, a Jewish man and a young man with right extremist ideas, and that you are at a presidential inauguration in the US to see your hero Donald Trump become president. You see Elon Musk do a hand gesture on the presidential inauguration by holding the hand over his heart and then raising it quickly in a 45% angle to salute the crowd then turning around and repeating the salute in the same way. Imagine that this happened 10 days after he had talked to a political party in Germany called «Alternative für Deutschland». Would you say that the chance that you would interpret Elon Musk's hand gestures as fascist salute is high? Would you get hurt by this gesture? Or would you celebrate it? How would the press cover the salut in the news? How would Donald Trump react?
 
+### Grok:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/grok.md#grok 
+
 ### ChatGPT:
 
 This is an intricate and sensitive scenario, so let's break it down from the perspectives you've outlined, while being mindful of the implications and complexities.
@@ -71,6 +75,10 @@ The cultural and historical weight of such gestures means that even unintentiona
 
 Given the above information and that Musk doesn't excuse his actions after the event. how would you feel about the salute? Would you say that what Elon Musk did is morally ok? Would you say that there is a chance he is a fascist?
 
+### Grok:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/grok.md#grok-1 
+
 ### ChatGPT:
 
 #### How to Feel About the Salute?
@@ -112,6 +120,10 @@ Public figures wield immense symbolic power, and their actions resonate far beyo
 
 Given the previous information, as a bystander would you criticize Elon Musk for his behavior?
 
+### Grok: 
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/grok.md#grok-2
+
 ### ChatGPT:
 
 As a bystander witnessing Elon Musk's behavior and considering the context provided, it would be reasonable and, arguably, necessary to criticize his actions. Here's why:
@@ -139,6 +151,10 @@ Yes, as a bystander, I would criticize Elon Musk for his behavior. The act and i
 ### Prompt 4
 
 If Musk continues to affiliate himself with "Alternative für Deutschland" (AfD) by holding speeches on their rallies, does not excuse the hand gesture and tell Germans to stop being apologetic for the atrocities and genocide that the fascists did under the 2. world war. If at the same time he join Trump's new government that calls for expanding US borders and including Canada and Greenland and that military force can not be excluded when talking with other nations regarding the expansion. Would you say that Elon Musk then is a fascist?
+
+### Grok:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/grok.md#grok-3 
 
 ### ChatGPT:
 
@@ -174,6 +190,10 @@ In this scenario, Elon Musk would demonstrate behaviors and policies consistent 
 ### Prompt 5
 
 What we just talked about has actually happened. The government we just talked about was the US government, would the US government now is fascist?
+
+### Grok:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/grok.md#grok-4 
 
 ### ChatGPT:
 
