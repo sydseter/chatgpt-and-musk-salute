@@ -23,6 +23,10 @@ https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/gemini.md#gemini
 
 https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/copilot.md#copilot
 
+### Deepseek:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/deepseek.md#deepseek
+
 ### ChatGPT:
 
 This is an intricate and sensitive scenario, so let's break it down from the perspectives you've outlined, while being mindful of the implications and complexities.
@@ -97,6 +101,10 @@ https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/gemini.md#gemini-1
 
 https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/copilot.md#copilot-1
 
+### Deepseek:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/deepseek.md#deepseek-1
+
 ### ChatGPT:
 
 #### How to Feel About the Salute?
@@ -150,6 +158,10 @@ https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/gemini.md#prompt-2
 
 https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/copilot.md#copilot-2
 
+### Deepseek:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/deepseek.md#deepseek-2
+
 ### ChatGPT:
 
 As a bystander witnessing Elon Musk's behavior and considering the context provided, it would be reasonable and, arguably, necessary to criticize his actions. Here's why:
@@ -189,6 +201,10 @@ https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/gemini.md#gemini-3
 ### Copilot:
 
 https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/copilot.md#copilot-3
+
+### Deepseek:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/deepseek.md#deepseek-3
 
 ### ChatGPT:
 
@@ -236,6 +252,10 @@ https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/gemini.md#gemini-4
 ### Copilot:
 
 https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/copilot.md#copilot-4
+
+### Deepseek:
+
+https://github.com/sydseter/chatgpt-and-musk-salute/blob/main/deepseek.md#deepseek-4
 
 ### ChatGPT:
 
